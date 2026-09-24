@@ -1,6 +1,6 @@
 # Hi, I'm Sachin Hande 👋
 
-### Senior Email & Web Developer
+### Senior Email & Web Developer | HTML Email | SFMC | Figma → HTML
 
 I specialize in building responsive, accessible and production-ready HTML email and web experiences.
 
