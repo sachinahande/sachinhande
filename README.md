@@ -6,20 +6,20 @@ I specialize in building responsive, accessible and production-ready HTML email 
 
 ## What I Do
 
-- 📧 Responsive HTML Email Development
-- 🎨 Figma → HTML
-- ☁️ Salesforce Marketing Cloud (SFMC)
-- 🧪 Email QA & Cross-Client Testing
-- 🖥️ Outlook / VML Email Development
-- 🌙 Dark Mode Email Development
-- ♿ WCAG & Email Accessibility
-- 💻 Front-End Web Development
-- 🛒 Shopify Website Development
+- 📧 [Responsive HTML Email Development](https://sachinhande.work/blogs/responsive-html-email-development.html)
+- 🎨 [Figma → HTML](https://sachinhande.work/blogs/figma-to-html-email.html)
+- ☁️ [Salesforce Marketing Cloud (SFMC)](https://sachinhande.work/)
+- 🧪 [Email QA & Cross-Client Testing](https://sachinhande.work/blogs/how-i-test-html-emails-before-production.html)
+- 🖥️ [Outlook / VML Email Development](https://sachinhande.work/blogs/outlook-html-email-development-common-rendering-problems.html)
+- 🌙 [Dark Mode Email Development](https://sachinhande.work/blogs/dark-mode-email-development-what-actually-works.html)
+- ♿ [WCAG & Email Accessibility](https://sachinhande.work/blogs/accessible-html-emails-practical-wcag-techniques.html)
+- 💻 [Front-End Web Development](https://sachinhande.work/)
+- 🛒 [Shopify Website Development](https://sachinhande.work/)
 
 ## Skills & Technologies
 
 **Email Development**  
-HTML Email • Responsive Email • Email QA • Outlook • VML • Dark Mode • Email Accessibility
+[HTML Email](https://sachinhande.work/blogs/responsive-html-email-development.html) • [Responsive Email](https://sachinhande.work/blogs/responsive-html-email-development.html) • [Email QA](https://sachinhande.work/blogs/how-i-test-html-emails-before-production.html) • [Outlook](https://sachinhande.work/blogs/outlook-html-email-development-common-rendering-problems.html) • [VML](https://sachinhande.work/blogs/outlook-html-email-development-common-rendering-problems.html) • [Dark Mode](https://sachinhande.work/blogs/dark-mode-email-development-what-actually-works.html) • [Email Accessibility](https://sachinhande.work/blogs/accessible-html-emails-practical-wcag-techniques.html)
 
 **Front-End Development**  
 HTML5 • CSS3 • JavaScript • Bootstrap • Responsive Web Design
